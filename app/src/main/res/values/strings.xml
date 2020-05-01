@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Tute04ans</string>
+    <string name="txt_username">UserName</string>
+    <string name="txt_password">Password</string>
+    <string name="edittxt_username">Name</string>
+    <string name="edittxt_password">Password</string>
+    <string name="btn_selectall">SELECT ALL</string>
+    <string name="btn_add">ADD</string>
+    <string name="btn_signin">SIGN IN</string>
+    <string name="btn_delete">DELETE</string>
+    <string name="btn_update">UPDATE</string>
+</resources>
